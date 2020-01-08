@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">scoringApp</string>
+    <string name="teamName1">ZZTeam</string>
+    <string name="teamName2">LiuJiaTeam</string>
+    <string name="fractionA" translatable="false">0</string>
+    <string name="fractionB" translatable="false">0</string>
+    <string name="button1" translatable="false">+1</string>
+    <string name="button2" translatable="false">+2</string>
+    <string name="button3" translatable="false">+3</string>
+    <string name="withdraw">withdraw</string>
+    <string name="resetFraction">resetFraction</string>
+</resources>
